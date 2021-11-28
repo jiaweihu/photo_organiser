@@ -12,6 +12,6 @@ It often happened that we have many photos which are scattered everywhere, can b
 The photos will not be duplicated, since the renamed photos are identical using photo name as address + time. 
 
 ## Libraries used:
-*piexif
-*geopy
-*shutil
+* piexif
+* geopy
+* shutil
