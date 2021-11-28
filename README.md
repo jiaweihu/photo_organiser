@@ -1,5 +1,6 @@
-# photo_organiser
-## Problem to solve: 
+# Photo Organiser
+
+## About The Project
 It often happened that we have many photos which are scattered everywhere, can be duplicated and consume a huge disk space. A random number is given to a photo file name and we may forget where and when the photo is made. It will be desiable to organise these photos.
 
 ## Solutions
@@ -11,7 +12,14 @@ It often happened that we have many photos which are scattered everywhere, can b
 ## Benefits:
 The photos will not be duplicated, since the renamed photos are identical using photo name as address + time. 
 
-## Libraries used:
+## Built With
 * piexif
 * geopy
 * shutil
+
+## Usage
+In photo_manager.py, modify the sourceDirectory and destFolder, then run this script. 
+
+## Contact
+[@jiaweihu](https://twitter.com/jiaweihu)
+
